@@ -1,0 +1,19 @@
+.btn {
+  align-content: center;
+}
+
+
+.container-fluid .button-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 88vh;
+}
+
+.card .card-body .card-title h3 {
+  font-size: 1.25em;
+}
+
+.card-columns {
+  column-count: 1 !important;
+}
